@@ -1,0 +1,5 @@
+Testing branching mechanics
+One question: can you commit a branch to the central repository without merging it?
+That way others can work off that branch too
+Seems likely but you never know...
+
